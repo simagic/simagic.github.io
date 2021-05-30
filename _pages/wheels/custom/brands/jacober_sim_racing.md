@@ -5,8 +5,10 @@ permalink: /hardware/wheels/brands/jacober_sim_racing
 parent: Custom Wheel Brands
 grand_parent: Custom Wheels
 ---
+{% assign filter = "JacobeR Sim Racing" %}
+# {{ filter }}
+{: .no_toc }
 1. TOC
 {:toc}
 
-{% assign filter = "JacobeR Sim Racing" %}
 {% include wheel_brand.liquid %}

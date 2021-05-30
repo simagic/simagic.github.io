@@ -5,8 +5,10 @@ permalink: /hardware/wheels/brands/rexing
 parent: Custom Wheel Brands
 grand_parent: Custom Wheels
 ---
+{% assign filter = "Rexing" %}
+# {{ filter }}
+{: .no_toc }
 1. TOC
 {:toc}
 
-{% assign filter = "Rexing" %}
 {% include wheel_brand.liquid %}

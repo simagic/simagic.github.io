@@ -5,10 +5,10 @@ permalink: /hardware/wheels/brands/hrs
 parent: Custom Wheel Brands
 grand_parent: Custom Wheels
 ---
-
+{% assign filter = "HRS" %}
+# {{ filter }}
+{: .no_toc }
 1. TOC
 {:toc}
 
-{% assign filter = "HRS" %}
 {% include wheel_brand.liquid %}
-
