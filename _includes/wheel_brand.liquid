@@ -1,6 +1,6 @@
 {% for wheel in site.data.ywheels %}
 {% if wheel.Brand == filter %}
-## {% if wheel.Brand %}{{ wheel.Brand }} - {% endif %}{% if wheel.Model %}{{ wheel.Model }}<br>{% endif %}
+## {% if wheel.Model %}{{ wheel.Model }}<br>{% endif %}
 {% if wheel.Brand %}Brand: {{ wheel.Brand }}<br>{% endif %}
 {% if wheel.Model %}Model: {{ wheel.Model }}<br>{% endif %}
 {% if wheel.Style %}Wheel Style: {{ wheel.Style }}<br>{% endif %}
