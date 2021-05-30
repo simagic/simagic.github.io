@@ -2,6 +2,7 @@
 title: Links
 layout: page
 permalink: /links/
+nav_order: 2
 ---
 # Usefull Links
 Just a collection of usefull Links
