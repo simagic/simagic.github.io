@@ -2,7 +2,7 @@
 title: SIM Dashboard
 layout: page
 permalink: /tools/sim_dashboard/
-parent: Usefull Tools
+parent: Useful Tools
 ---
 I personally use the SIM Dashboard to emulate a dash on an old android phone.
 I've tried many apps and variations, but this has so far given me the simplest and most comprehensive result

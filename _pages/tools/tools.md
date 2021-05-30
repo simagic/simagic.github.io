@@ -1,7 +1,7 @@
 ---
 #layout: single
 layout: page
-title: Usefull Tools
+title: Useful Tools
 permalink: /tools/
 has_children: true
 ---
