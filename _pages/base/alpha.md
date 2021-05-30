@@ -5,6 +5,8 @@ permalink: /base/alpha/
 parent: Simagic Wheelbase
 ---
 # Settings
+<img src="/assets/images/alpha_manager_setting.jpg" alt="Alpha Manager"/>
+
 ## Mechanical Settings
 ### TotalForce [-100~100]
 ```
