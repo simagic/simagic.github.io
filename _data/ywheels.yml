@@ -83,7 +83,7 @@
 -
     Brand: Apex Sim Racing
     Model: OMP310
-    LINK: <a target="_blank" href="https://www.apexsimracing.com/collections/steering-wheels/products/lamborghini-huracan-super-trofeo-evo">APEX OMP 310 ST – Apex Sim Racing™️ LLC - Sim Racing Products</a>
+    LINK: <a target="_blank" href="https://www.apexsimracing.com/collections/steering-wheels/products/omp-310-cm-series">APEX OMP 310 ST – Apex Sim Racing LLC - Sim Racing Products</a>
     Style: Prototype
     Screen: "No"
     Width_MM: 310
@@ -100,7 +100,7 @@
     RETAIL_US: 1300.00
 -
     Brand: HRS
-    Model: GT8-USB MOMO MOD30
+    Model: GT8-USB MOMO MOD.30
     LINK: <a target="_blank" href="https://hrsims.com/collections/steering-wheels/products/momo-mod-30-320">HRS GT8-USB Momo Mod.30 – Hybrid Racing Simulations (hrsims.com)</a>
     Style: GT
     Screen: "No"
@@ -118,22 +118,22 @@
     RETAIL_US: 1250.00
 -
     Brand: Ascher Racing
-    Model: F64-USB
-    LINK: <a target="_blank" href="https://www.ascher-racing.com/shop/f64-usb/">F64-USB – Ascher Racing (ascher-racing.com)</a>
+    Model: F64-USB V2
+    LINK: <a target="_blank" href="https://www.ascher-racing.com/shop/f64-usb-v2/">F64-USB V2 – Ascher Racing</a>
     Style: Formula
     Screen: "No"
     Width_MM: 285
-    RETAIL_EU: 1000.00
+    RETAIL_EU: 999.00
     RETAIL_US: 1190.00
 -
     Brand: VPG Sim Lab
     Model: Elemento
-    LINK: <a target="_blank" href="https://vpgsimlab.co.uk/shop/p/elemento">https://vpgsimlab.co.uk/shop/p/elemento</a>
+    LINK: <a target="_blank" href="https://vpgsimlab.co.uk/shop/p/elemento">VPG Elemento</a>
     Style: Prototype
     Screen: "Yes"
     Width_MM: 300
-    RETAIL_EU: 950
-    RETAIL_US: 1130.50
+    RETAIL_EU: 1100
+    RETAIL_US: 1348
 -
     Brand: PSE
     Model: GT3
@@ -141,29 +141,29 @@
     Style: GT
     Screen: "No"
     Width_MM: 310
-    RETAIL_EU: 895
-    RETAIL_US: 1065.05
+    RETAIL_EU: 1040
+    RETAIL_US: 1200
 -
     Brand: Speed Max Racing
     Model: F1-SMRH-70
     LINK: <a target="_blank" href="https://www.speedmaxracing.it/en/steering-wheel/18-gt1-rim-addon-carbon-clutches-logitech-thrustmaster-osw.html">F1-SMRH-70 - Steering Wheel - SpeedMaxRacing</a>
-    Style: Prototype
+    Style: Formula
     Screen: "Yes"
     Width_MM: 300
     RETAIL_EU: 850
     RETAIL_US: 1011.50
 -
     Brand: Simcore
-    Model: OMP SBT
-    LINK: <a target="_blank" href="https://simcore.com.au/omp-sbt/">OMP SBT GT / GTE style sim racing wireless steering wheel (simcore.com.au)</a>
+    Model: OMP SBT GT
+    LINK: <a target="_blank" href="https://simcore.com.au/omp-sbt/">OMP SBT GT / GTE style sim racing wireless steering wheel</a>
     Style: GT
     Screen: "No"
     Width_MM:
     RETAIL_EU:
-    RETAIL_US: 950.00
+    RETAIL_US: 899
 -
     Brand: Cube Controls
-    Model: FORMULA PRO ELITE
+    Model: Formula Pro
     LINK: <a target="_blank" href="https://cubecontrols.com/product/formula-pro-classic/">Cube Controls / Formula Pro Steering wheel</a>
     Style: Formula
     Screen: "No"
@@ -190,7 +190,7 @@
     RETAIL_US: 875.00
 -
     Brand: Cube Controls
-    Model: GT PRO MOMO
+    Model: GT Pro MOMO
     LINK: <a target="_blank" href="https://cubecontrols.com/product/gt-pro-momo-classic/">GT MOMO Steering Wheels / Cube Controls Steering Wheels</a>
     Style: GT
     Screen: "No"
@@ -199,7 +199,7 @@
     RETAIL_US: 835.38
 -
     Brand: Cube Controls
-    Model: GT PRO SPARCO
+    Model: GT Pro Sparco
     LINK: <a target="_blank" href="https://cubecontrols.com/product/gt-pro-sparco-classic/">GT Sparco Steering Wheels / Cube Controls / Sim Racing</a>
     Style: GT
     Screen: "No"
@@ -208,7 +208,7 @@
     RETAIL_US: 827.05
 -
     Brand: Cube Controls
-    Model: GT PRO OMP
+    Model: GT Pro OMP
     LINK: <a target="_blank" href="https://cubecontrols.com/product/gt-pro-omp-classic/">GT OMP Steering Wheel / Sim Racing Controllers / Cube Controls</a>
     Style: GT
     Screen: "No"
@@ -218,7 +218,7 @@
 -
     Brand: Turn Racing & Ascher Racing
     Model: R20 WHEEL & B16LUSB BASE
-    LINK: <a target="_blank" href="https://www.turnracing.com/products/turn-r20-steering-wheel">Turn R20 Evo Sim Racing Wheel - Turn Racing</a> <a target="_blank" href="https://www.ascher-racing.com/shop/b16l-usb/">B16L-USB – Ascher Racing (ascher-racing.com)</a>
+    LINK: <a target="_blank" href="https://www.turnracing.com/products/turn-r20-steering-wheel">Turn R20 Evo Sim Racing Wheel - Turn Racing</a><br><a target="_blank" href="https://www.ascher-racing.com/shop/b16l-usb/">B16L-USB – Ascher Racing (ascher-racing.com)</a>
     Style: Formula
     Screen: "No"
     Width_MM: 300
@@ -226,7 +226,7 @@
     RETAIL_US: 785.00
 -
     Brand: Cube Controls
-    Model: GT PRO ZERO
+    Model: GT Pro ZERO
     LINK: <a target="_blank" href="https://cubecontrols.com/product/gt-pro-zero/">GT Pro ZERO Steering Wheels. Cube Controls</a>
     Style: Formula
     Screen: "No"
@@ -235,7 +235,7 @@
     RETAIL_US: 779.45
 -
     Brand: Cube Controls
-    Model: GT SPORT
+    Model:GT Sport
     LINK: <a target="_blank" href="https://cubecontrols.com/product/gt-sport/">GT Sport / Cube Controls Steering Wheels / For Sim Racers</a>
     Style: GT
     Screen: "No"
@@ -253,7 +253,7 @@
     RETAIL_US: 773.50
 -
     Brand: Cube Controls
-    Model: GT PRO CUBE
+    Model: GT Pro CUBE
     LINK: <a target="_blank" href="https://cubecontrols.com/product/gt-pro-cube/">GT Pro Cube Steering Wheels. Cube Controls</a>
     Style: GT
     Screen: "No"
@@ -270,10 +270,10 @@
     RETAIL_EU:
     RETAIL_US: 730.00
 -
-    Brand: Innatosr
-    Model: FERRARI 488 ELITE
+    Brand: Innato Steering Wheels
+    Model: Innato 488 GTE Elite
     LINK: <a target="_blank" href="https://www.innatosr.com/p7284094-ferrari-488-gte-elite.html">Ferrari 488 GTE Elite&#58; € 599.00 (innatosr.com)</a>
-    Style: Prototype
+    Style: Formula
     Screen: "No"
     Width_MM:
     RETAIL_EU: 600
@@ -291,23 +291,23 @@
     Brand: Ricmotech
     Model: MPI GT11C
     LINK: <a target="_blank" href="https://www.ricmotech.com/realgear-wheelpro-mpi-gt11c-wheel-direct-drive">RealGear WHEELpro MPI GT11C Wheel for Direct-Drive Servos (ricmotech.com)</a>
-    Style: Formula
+    Style: GT
     Screen: "No"
     Width_MM: 270
     RETAIL_EU:
     RETAIL_US: 710.00
 -
     Brand: Simagic
-    Model: GT4 USB
+    Model: GT4
     LINK: <a target="_blank" href="https://us.sim-motion.com/products/simagic-usb-gt4-wheel">SIMAGIC - Premium GT4 Wheel (USB) / Sim-Motion US (sim-motion.com)</a>
-    Style: Prototype
+    Style: GT
     Screen: "No"
     Width_MM: 300
-    RETAIL_EU:
+    RETAIL_EU: 550
     RETAIL_US: 695.00
 -
     Brand: Cube Controls
-    Model: FORMULA SPORT
+    Model: Formula Sport
     LINK: <a target="_blank" href="https://cubecontrols.com/product/formula-sport-classic/">Formula Sport Racing Wheels. Racing eSports. Cube Controls</a>
     Style: Formula
     Screen: "No"
@@ -315,27 +315,27 @@
     RETAIL_EU: 573
     RETAIL_US: 681.87
 -
-    Brand: Innatosr
-    Model: ASTON MARTIN VANTAGE
-    LINK: <a target="_blank" href="https://www.innatosr.com/p7161416-aston-martin-vantage.html">Aston Martin Vantage&#58; € 560.00 (innatosr.com)</a>
+    Brand: Innato Steering Wheels
+    Model: Innato Vantage Elite
+    LINK: <a target="_blank" href="https://www.innatosr.com/p7161416-innato-vantage.html">Innato Vantage Elite</a>
     Style: Prototype
     Screen: "No"
     Width_MM: 290
     RETAIL_EU: 560
     RETAIL_US: 666.40
 -
-    Brand: Innatosr
-    Model: AUDI R8-GT3
-    LINK: <a target="_blank" href="https://www.innatosr.com/p7565882-innato-gt3-elite.html">Innate GT3 - Elite&#58; € 550.00 (innatosr.com)</a>
-    Style: Prototype
+    Brand: Innato Steering Wheels
+    Model: Innato GT3 - Elite
+    LINK: <a target="_blank" href="https://www.innatosr.com/p7565882-innato-gt3-elite.html">Innate GT3 - Elite</a>
+    Style: GT
     Screen: "No"
     Width_MM: 300
     RETAIL_EU: 550
     RETAIL_US: 654.50
 -
-    Brand: Innatosr
-    Model: FERRARI 488-GTE
-    LINK: <a target="_blank" href="https://www.innatosr.com/p6323972-ferrari-488-gte.html">Ferrari 488 GTE&#58; € 525.00 (innatosr.com)</a>
+    Brand: Innato Steering Wheels
+    Model: 488 GTE
+    LINK: <a target="_blank" href="https://www.innatosr.com/p6323972-ferrari-488-gte.html">Ferrari 488 GTE</a>
     Style: Prototype
     Screen: "No"
     Width_MM:
@@ -343,25 +343,17 @@
     RETAIL_US: 624.75
 -
     Brand: Hive SIMBR
-    Model: Multi
+    Model: Multiple
     LINK: <a target="_blank" href="https://en.hivesim.com.br/">HOME / HIVE (hivesim.com.br)</a>
-    Style: Prototype
+    Style: GT
     Screen: "No"
     Width_MM: 310
     RETAIL_EU:
     RETAIL_US: 550.00
--
-    Brand: Innatosr
-    Model: PORSCHE GT3 CUP
-    LINK: <a target="_blank" href="https://www.innatosr.com/p5596499-porsche-gt3-cup.html">Porsche GT3 Cup&#58; € 450.00 (innatosr.com)</a>
-    Style: GT
-    Screen: "No"
-    Width_MM: 320
-    RETAIL_EU: 450
-    RETAIL_US: 535.50
+    Commments: Custom wheel maker
 -
     Brand: Speed Max Racing
-    Model: LAMBO SUPER TROFEO
+    Model: Lambo-Super Trofeo
     LINK: <a target="_blank" href="https://www.speedmaxracing.it/en/steering-wheel/49-f1-rim-addon-carbon-logitech-thrustmaster-osw.html">Lambo-Super Trofeo - SpeedMaxRacing</a>
     Style: Prototype
     Screen: "No"
@@ -370,16 +362,16 @@
     RETAIL_US: 499.80
 -
     Brand: Sim Racing Customs
-    Model: FLYER 911 GT3
-    LINK: <a target="_blank" href="https://simracingcustom.es/es/volantes/24-184-volante-911-gt3.html%23/42-levas-impresion_3d_pla_plus/46-compatibilidad_fanatec_3999-no">Volante 911 GT3 (simracingcustom.es)</a>
+    Model: Volante P320 GT3
+    LINK: <a target="_blank" href="https://simracingcustom.es/es/volantes/24-184-volante-911-gt3.html#/42-levas-impresion_3d_pla_plus/46-compatibilidad_fanatec_3999-no">Volante 911 GT3 (simracingcustom.es)</a>
     Style: GT
     Screen: "No"
     Width_MM: 320
-    RETAIL_EU: 400
-    RETAIL_US: 476.00
+    RETAIL_EU: 450
+    RETAIL_US:
 -
     Brand: Speed Max Racing
-    Model: 488GT3
+    Model: SMR 488 GT3
     LINK: <a target="_blank" href="https://www.speedmaxracing.it/en/steering-wheel/20-gt1-rim-addon-carbon-clutches-logitech-thrustmaster-osw.html">SMR 488 GT3 - Steering Wheel - SpeedMaxRacing</a>
     Style: Formula
     Screen: "No"
@@ -388,16 +380,16 @@
     RETAIL_US: 464.10
 -
     Brand: Sim Racing Coach
-    Model: SRC-RADICAL
+    Model: SRC RADICAL
     LINK: <a target="_blank" href="https://www.simracingcoach.com/en/contenido/volante-src-radical/">Panel de Botones y Levas (simracingcoach.com)</a>
-    Style: Formula
+    Style: GT
     Screen: "No"
     Width_MM: 290
     RETAIL_EU: 379
     RETAIL_US: 451.01
 -
     Brand: Sim Racing Coach
-    Model: SRC-GT1
+    Model: SRC GT-1
     LINK: <a target="_blank" href="https://www.simracingcoach.com/en/contenido/volante-gt1/">Panel de Botones y Levas (simracingcoach.com)</a>
     Style: GT
     Screen: "No"
@@ -406,31 +398,32 @@
     RETAIL_US: 427.21
 -
     Brand: Polsimer
-    Model: F74-LED
+    Model: F74LED
     LINK: <a target="_blank" href="https://www.polsimer.pl/strona-produktu/f74l">F74LED Formula Wheel / Polsimer</a>
     Style: Formula
     Screen: "No"
     Width_MM: 290
-    RETAIL_EU: 349
+    RETAIL_EU: 389
     RETAIL_US: 415.31
 -
     Brand: Speed Max Racing
-    Model: MERC SMR GT3
+    Model: MERC-SMR GT3
     LINK: <a target="_blank" href="https://www.speedmaxracing.it/en/steering-wheel/95-gt3-smr-280.html">MERC-SMR GT3- Steering Wheel - SpeedMaxRacing</a>
-    Style: Prototype
+    Style: GT
     Screen: "No"
     Width_MM: 280
     RETAIL_EU: 289
     RETAIL_US: 343.91
 -
-    Brand: KSS WHeels
-    Model: Single Wheel
-    LINK: <a target="_blank" href="https://www.facebook.com/ksswheels">(20+) KSS Wheels / Facebook</a>
+    Brand: KSS Wheels
+    Model: Multiple
+    LINK: <a target="_blank" href="https://www.facebook.com/ksswheels">KSS Wheels / Facebook</a>
     Style: Prototype
     Screen: "No"
     Width_MM: 310
     RETAIL_EU:
     RETAIL_US: 300.00
+    Comments: Custom wheel maker
 -
     Brand: Balkn
     Model: RT1
