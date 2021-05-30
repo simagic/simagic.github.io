@@ -2,6 +2,7 @@
 title: alpha base
 layout: page
 permalink: /base/alpha/
+parent: Simagic Wheelbase
 ---
 # Settings
 ## Mechanical Settings
