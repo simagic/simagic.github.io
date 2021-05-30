@@ -1,15 +1,15 @@
 ---
 layout: page
 title: Formula Wheels
-permalink: /hardware/wheels/formula/
-parent: Custom Wheels
+permalink: /hardware/wheels/type/formula/
+parent: Custom Wheel Styles
+grand_parent: Custom Wheels
 ---
 # Formula Wheels 
 {: .no_toc }
 
 1. TOC
 {:toc}
-<br>
    
 {% for wheel in site.data.ywheels %}
 {% if wheel.Style == "Formula" %}

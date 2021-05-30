@@ -1,15 +1,15 @@
 ---
 layout: page
 title: Prototype Wheels
-permalink: /hardware/wheels/prototype/
-parent: Custom Wheels
+permalink: /hardware/wheels/type/prototype/
+parent: Custom Wheel Styles
+grand_parent: Custom Wheels
 ---
 # Prototype Wheels 
 {: .no_toc }
 
 1. TOC
 {:toc}
-<br>
 
 {% for wheel in site.data.ywheels %}
 {% if wheel.Style == "Prototype" %}

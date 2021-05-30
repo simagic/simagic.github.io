@@ -1,15 +1,15 @@
 ---
 layout: page
 title: GT Wheels
-permalink: /hardware/wheels/gt/
-parent: Custom Wheels
+permalink: /hardware/wheels/type/gt/
+parent: Custom Wheel Styles
+grand_parent: Custom Wheels
 ---
 # GT Wheels 
 {: .no_toc }
 
 1. TOC
 {:toc}
-<br>
 
 
 {% for wheel in site.data.ywheels %}
