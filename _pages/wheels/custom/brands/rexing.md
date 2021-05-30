@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Precision Sim Engineering
-permalink: /hardware/wheels/brands/pse
+title: Rexing
+permalink: /hardware/wheels/brands/rexing
 parent: Custom Wheel Brands
 grand_parent: Custom Wheels
 ---
@@ -9,7 +9,7 @@ grand_parent: Custom Wheels
 {:toc}
    
 {% for wheel in site.data.ywheels %}
-{% if wheel.Brand == "PSE" %}
+{% if wheel.Brand == "Rexing" %}
 
 ## {% if wheel.Brand %}{{ wheel.Brand }} - {% endif %}{% if wheel.Model %}{{ wheel.Model }}<br>{% endif %}
 {% if wheel.Brand %}Brand: {{ wheel.Brand }}<br>{% endif %}
