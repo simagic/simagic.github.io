@@ -82,13 +82,31 @@
     RETAIL_US: 1429.00
 -
     Brand: Apex Sim Racing
-    Model: OMP310
-    LINK: <a target="_blank" href="https://www.apexsimracing.com/collections/steering-wheels/products/omp-310-cm-series">APEX OMP 310 ST</a>
+    Model: OMP 310 CM
+    LINK: <a target="_blank" href="https://www.apexsimracing.com/collections/steering-wheels/products/omp-310-cm-series">OMP 310 CM</a>
     Style: Prototype
     Screen: "No"
     Width_MM: 310
     RETAIL_EU:
-    RETAIL_US: 1400.00
+    RETAIL_US: 1499.00
+-
+    Brand: Apex Sim Racing
+    Model: ST EVO
+    LINK: <a target="_blank" href="https://www.apexsimracing.com/collections/steering-wheels/products/apex-st-evo">ST EVO</a>
+    Style: Prototype
+    Screen: "No"
+    Width_MM: 310
+    RETAIL_EU:
+    RETAIL_US: 1200.00
+-
+    Brand: Apex Sim Racing
+    Model: ASR-1
+    LINK: <a target="_blank" href="https://www.apexsimracing.com/collections/steering-wheels/products/apex-asr-1">ASR-1</a>
+    Style: Formula
+    Screen: "No"
+    Width_MM: 310
+    RETAIL_EU:
+    RETAIL_US: 850.00
 -
     Brand: HRS
     Model: GT8-USB SPARCO P310
@@ -100,6 +118,15 @@
     RETAIL_US: 1300.00
 -
     Brand: HRS
+    Model: HRS GT8-X PRO
+    LINK: <a target="_blank" href="https://hrsims.com/collections/steering-wheels/products/hrs-gt8-x-pro">HRS GT8-X PRO</a>
+    Style: GT
+    Screen: "No"
+    Width_MM: 310
+    RETAIL_EU:
+    RETAIL_US: 1599.00
+-
+    Brand: HRS
     Model: GT8-USB MOMO MOD.30
     LINK: <a target="_blank" href="https://hrsims.com/collections/steering-wheels/products/momo-mod-30-320">HRS GT8-USB Momo Mod.30</a>
     Style: GT
@@ -109,7 +136,7 @@
     RETAIL_US: 1300.00
 -
     Brand: Gomez
-    Model: FORMULA PRO ELITE
+    Model: Formula Pro Elite
     LINK: <a target="_blank" href="https://gomezsimindustries.com/shop/p/formula-pro-elite">Formula Pro Elite</a>
     Style: Formula
     Screen: "Yes"
@@ -119,12 +146,21 @@
 -
     Brand: Ascher Racing
     Model: F64-USB V2
-    LINK: <a target="_blank" href="https://www.ascher-racing.com/shop/f64-usb-v2/">F64-USB V2 – Ascher Racing</a>
+    LINK: <a target="_blank" href="https://www.ascher-racing.com/shop/f64-usb-v2/">F64-USB V2</a>
     Style: Formula
     Screen: "No"
     Width_MM: 285
     RETAIL_EU: 999.00
     RETAIL_US: 1190.00
+-
+    Brand: Ascher Racing
+    Model: F28-SC V2
+    LINK: <a target="_blank" href="https://www.ascher-racing.com/shop/f28-sc-v2/">F28-SC V2</a>
+    Style: Formula
+    Screen: "No"
+    Width_MM: 285
+    RETAIL_EU: 669.00
+    RETAIL_US:
 -
     Brand: VPG Sim Lab
     Model: Elemento
@@ -181,7 +217,7 @@
     RETAIL_US: 895.00
 -
     Brand: Gomez
-    Model: GXL PRO
+    Model: GXL Pro
     LINK: <a target="_blank" href="https://gomezsimindustries.com/shop/p/gxl-pro">GXL Pro</a>
     Style: Formula
     Screen: "No"
@@ -350,7 +386,7 @@
     Width_MM: 310
     RETAIL_EU:
     RETAIL_US: 550.00
-    Commments: Custom wheel maker
+    Commment: Custom wheel maker
 -
     Brand: Speed Max Racing
     Model: Lambo-Super Trofeo
@@ -423,7 +459,7 @@
     Width_MM: 310
     RETAIL_EU:
     RETAIL_US: 300.00
-    Comments: Custom wheel maker
+    Comment: Custom wheel maker
 -
     Brand: Balkn
     Model: RT1
