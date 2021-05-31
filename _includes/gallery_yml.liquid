@@ -1,0 +1,6 @@
+{% include gallery_style.liquid %}
+<ul class="image-gallery">
+    {% for pic in site.data.z1_analyzer %}
+        <li><a href="{{ pic.url }}" title="{{ pic.alt }}" class="lightbox-image gallery"><img src="{{ pic.url }}" alt="{{ pic.alt }}" title="{{ pic.alt }}"><span>{{ pic.alt }}</span></a></li>
+    {% endfor %}
+</ul>
