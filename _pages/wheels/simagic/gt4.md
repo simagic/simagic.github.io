@@ -11,6 +11,10 @@ parent: Simagic Wheels
 # GT4
 {: .no_toc }
 <img src="https://www.simagic.com/assets/img/%E4%BA%A7%E5%93%81GT4.png" alt="GT4" width="200"/><br>
+
+
+<a href="/assets/pdf/GT4HUB_Manual.pdf" target="_blank">Official GT4 Manual<a/>
+
 ## Setup
 <img src="/assets/images/GT4_buttons.jpg" alt="drawing"/><br>
 ### Calibration

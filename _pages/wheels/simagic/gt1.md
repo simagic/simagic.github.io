@@ -13,6 +13,10 @@ parent: Simagic Wheels
 The GT1 wheel comes in two shapes, classic and D Shape.<br>
 <img src="https://www.simagic.com/assets/img/%E4%BA%A7%E5%93%81%E5%9B%BEGT1.png" alt="Classic" width="200"/>
 <img src="https://www.simagic.com/assets/img/%E4%BA%A7%E5%93%81%E5%9B%BEGT1-D.png" alt="D Shape" width="200"/><br>
+
+
+<a href="/assets/pdf/GT1_HUB_Manual.pdf" target="_blank">Official GT1 Manual<a/>
+
 ## Setup
 <img src="/assets/images/GT1_buttons.jpg" alt="drawing"/><br>
 ### Calibration

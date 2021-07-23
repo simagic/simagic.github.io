@@ -7,6 +7,9 @@ parent: Simagic Wheelbase
 # Settings
 <img src="/assets/images/alpha_manager_setting.jpg" alt="Alpha Manager"/>
 
+
+<a href="/assets/pdf/Alpha_Base_Manual.pdf" target="_blank">Official alpha Base Manual<a/>
+
 ## Mechanical Settings
 ### TotalForce [-100~100]
 ```
