@@ -15,7 +15,7 @@ Or you can get it from here <a href="/assets/files/alpha/Base_Offline_Updater.zi
 
 You will also need some old version of the Firmware
 
-- <a href="/assets/files/alpha/6011.bin">Version 6011<a/>
-- <a href="/assets/files/alpha/6016.bin">Version 6016<a/>
-- <a href="/assets/files/alpha/6017.bin">Version 6017<a/>
-- <a href="/assets/files/alpha/6025.bin">Version 6025<a/>
+- <a href="/assets/files/alpha/6011.fw">Version 6011<a/>
+- <a href="/assets/files/alpha/6016.fw">Version 6016<a/>
+- <a href="/assets/files/alpha/6017.fw">Version 6017<a/>
+- <a href="/assets/files/alpha/6025.fw">Version 6025<a/>

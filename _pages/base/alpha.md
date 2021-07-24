@@ -98,3 +98,25 @@ Save the configuration for future as a file
 ```
 Load saved configuration file
 ```  
+
+
+# System State
+
+<img src="/assets/images/alpha_manager_system_state.jpg" alt="Alpha Manager System States"/>
+
+### Normal
+Everything is good to go, let's race
+### ROMErr (ROM Error)
+Firmware error.
+Try flashing a new (or old) Firmware.
+[alpha Firmware](/base/alpha_firmware/)
+### LosingPhase
+### OverCur (Over Current)
+If this occurs with together with over voltage and out of angle you'll need to physically reset the base.
+### OverVol (Over Voltage)
+See over current
+### OverSpeed
+### TestCur
+### OutOfAng (Out of Angle / Angle over Limit)
+See over current
+### AssErr
