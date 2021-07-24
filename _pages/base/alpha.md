@@ -13,27 +13,33 @@ parent: Simagic Wheelbase
 ## Mechanical Settings
 ### TotalForce [-100~100]
 ```
-Total power of the motor.
-For some reason it's possible to go negative, which will invert FFB
+Total power of the force feedback.
+Negative values invert the FFB which is important for games like rFactor 2
 ```
-### WheelSpeed [0~100]
+
+### WheelInertia [0~100]
 ```
-The maximal speed of the wheelbase in percent.
-If the speed requested from the game is above the percentage value, it will be cut.
-Otherwise, no change will happen
+The weight of the wheel.
+Higher means heavier wheel and equals more stability.
+But it may also diminish the road and vehicle information.
+0 equals original weight of steering wheel
 ```
+
 ### WheelDamper [0~100]
 ```
 This setting dampens the wheel rotation.
 This can be a usefull tool to stop oscilation.
 ```
-### FilterFrequency [0~100]
+
+### SmoothLevel [0~10]
 ```
 This Adjust how much of the FFB the game sends is cut off / trimed
-0 = Set for Automatic Filtering
-1-100 = Sets Manual Filtering
-1 = 100% Filter (ON)
-100 = 0% Filter (OFF)
+Higher value means smoother feel but also might lose some details
+0 equals to no filtering at all
+
+1-9 = Sets Manual Filtering
+10 = 100% Filter (ON)
+0 = 0% Filter (OFF)
 ```
 ### WheelSpring [0~100]
 ```
@@ -62,23 +68,18 @@ Can usually be very low, since this is normaly taken care of from the game FFB
 ### GameFriction [0~200]
 ```
 ```
-### Suspension [Soft, Normal, Hard]
-```
-```
-### Response [Stable, Wild]
-```
-The stable mode is closer to the original output of the game.
-In the wild mode, the affected output details will be increased.
-```
 
-## Game Force
-### ConstantForce [0~200] 
+## Vehicle Setting
+### WheelSpeed [0~100]
 ```
-Linear scaling of the signals coming from game.
-Rule of thumb is, leave at 100
+The maximal speed of the wheelbase in percent.
+If the speed requested from the game is above the percentage value, it will be cut.
+Otherwise, no change will happen
 ```
-### PeriodForce [0~200]
+### Suspension [0~9]
 ```
+Lower values can provide cleaner / smoother output.
+Higher values are closer to the original FFB provided by the game but may introduce unwanted noise.
 ```
 
 ## Buttons
