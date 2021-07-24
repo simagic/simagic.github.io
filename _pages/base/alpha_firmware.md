@@ -15,11 +15,8 @@ Or you can get it from here <a href="/assets/files/alpha/Base_Offline_Updater.zi
 
 You will also need some old version of the Firmware
 
-{% for firmware in site.assets.files.firmware.alpha %}
-- <a href="{{ site.baseurl }}{{ firmware.path }}">Version {{firmware}}<a/>
-{% endfor %}
-- <a href="/assets/files/firmware/alpha/6011.fw">Version 6011<a/>
-- <a href="/assets/files/firmware/alpha/6016.fw">Version 6016<a/>
-- <a href="/assets/files/firmware/alpha/6017.fw">Version 6017<a/>
-- <a href="/assets/files/firmware/alpha/6025.fw">Version 6025<a/>
-- <a href="/assets/files/firmware/alpha/6050.fw">Version 6050<a/>
+{% for firmware in site.static_files -%}
+    {% if firmware.path contains '/assets/files/firmware/alpha/' %}
+- <a href="{{ site.baseurl }}{{ firmware.path }}">Version {{firmware.basename}}<a/>
+    {%- endif %}
+{%- endfor %}
