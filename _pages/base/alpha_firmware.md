@@ -14,8 +14,8 @@ The offline updater is available in older versions of the Alpha Manager
 Or you can get it from here <a href="/assets/files/alpha/Base_Offline_Updater.zip">Base Offline Updater<a/>
 
 You will also need some old version of the Firmware
-{% for firmware in site.assets.files.firmware %}
-        <a href="{{ site.baseurl }}{{ firmware.path }}">{{firmware}}<a/>
+{% for firmware in site.assets.files.firmware.alpha %}
+- <a href="{{ site.baseurl }}{{ firmware.path }}">Version {{firmware}}<a/>
 {% endfor %}
 - <a href="/assets/files/alpha/6011.fw">Version 6011<a/>
 - <a href="/assets/files/alpha/6016.fw">Version 6016<a/>
