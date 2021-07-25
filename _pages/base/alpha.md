@@ -3,6 +3,7 @@ title: alpha base
 layout: page
 permalink: /base/alpha/
 parent: Simagic Wheelbase
+has_children: true
 ---
 # Settings
 <img src="/assets/images/alpha_manager_setting.jpg" alt="Alpha Manager"/>

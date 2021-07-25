@@ -2,7 +2,8 @@
 title: alpha Firmware
 layout: page
 permalink: /base/alpha_firmware/
-parent: Simagic Wheelbase
+grand_parent: Simagic Wheelbase
+parent: alpha base
 ---
 # Firmware Upgrades
 The newer versions of Alpha Manager have the updater built into the application.
