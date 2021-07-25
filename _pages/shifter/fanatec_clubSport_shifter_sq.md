@@ -6,7 +6,7 @@ parent: Shifters
 ---
 # Review
 Generally a good H and Sequential shifter.
-Sadly not compatible with Simagic Base so has to be used with its own [USB connection](https://fanatec.com/eu-en/accessories/pedal-accessories/clubsport-usb-adapter)
+Sadly not compatible with Simagic Base so has to be used with its own <a href="https://fanatec.com/eu-en/accessories/pedal-accessories/clubsport-usb-adapter" target="_blank">USB connection<a/>
 
 Mostly known for it's H shifter capabilities, most people prefer a real sequential shifter over the ClubSport SQ.
 However, if you're on a budget and want both H and Sequential, or you just lack the space, it's a good investment.
