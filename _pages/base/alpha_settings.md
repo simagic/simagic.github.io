@@ -16,7 +16,7 @@ Information on each game can be found [here](https://docs.google.com/spreadsheet
 
 {% for setting in site.static_files -%}
     {% if setting.path contains '/assets/files/settings/alpha/2050/' %}
-- [{{setting.basename}}]({{ site.baseurl }}{{ setting.path }})
+- <a href="{{ site.baseurl }}{{ setting.path }}" target="_blank">{{setting.basename}}<a/>
     {%- endif %}
 {%- endfor %}
 
@@ -25,6 +25,6 @@ Information on each game can be found [here](https://docs.google.com/spreadsheet
 
 {% for setting in site.static_files -%}
     {% if setting.path contains '/assets/files/settings/alpha/older/' %}
-- <a href="{{ site.baseurl }}{{ setting.path }}">Version {{setting.basename}}<a/>
+- <a href="{{ site.baseurl }}{{ setting.path }}" target="_blank">{{setting.basename}}<a/>
     {%- endif %}
 {%- endfor %}
