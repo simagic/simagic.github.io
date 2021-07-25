@@ -16,7 +16,7 @@ Information on each game can be found [here](https://docs.google.com/spreadsheet
 
 {% for setting in site.static_files -%}
     {% if setting.path contains '/assets/files/settings/alpha/2050/' %}
-- [Version {{setting.basename}}]({{ site.baseurl }}{{ setting.path }})
+- [{{setting.basename}}]({{ site.baseurl }}{{ setting.path }})
     {%- endif %}
 {%- endfor %}
 
