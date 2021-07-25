@@ -13,17 +13,18 @@ nav_order: 1
 1. Install the software
 1. Update your Wheelbase
     1. On an m10 wheelbase use: **M10BaseUpdateOffLine.exe**
-    1. On an alpha wheelbase use: **AlphaBaseUpdateOnLine**
+    1. On an alpha wheelbase use: **RaceManager** -> BootLoad
 1. Update your Wheel / Rim
     1. Attach the Wheel / Rim to your Computer via USB connection
     1. m10 wheelbase: **M10WheelUpdateOnLine.exe**
     1. alpha wheelbase: **AlphaWheelUpdateOnLine.exe**
-1. Check that Wheel and Base are both on Channel 60
+1. Check that Wheel and Base are both on same Channel
     1. Attach the Wheel / Rim to your Computer via USB connection
     1. m10 wheelbase: **M10Channel.exe**
-    1. alpha wheelbase: **AlphaChannel.exe.exe**
+    1. [alpha wheelbase](/base/alpha_channel/)
     1. If the wheelbase has difficulties communicating with the wheel, try setting a different channel, and back to 60
-1. And you're good to go, or more like good to start settings :smile:
+1. And you're good to go, or more like good to start playing around with settings  
+   The newer version of alpha manager come with some predefined settings, which may help you get started.
     1. [m10 wheelbase](/base/m10/)
     1. [alpha wheelbase](/base/alpha/)
 ## Supported Games
