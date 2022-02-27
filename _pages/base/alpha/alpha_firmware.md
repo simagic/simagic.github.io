@@ -25,7 +25,7 @@ parent: alpha base
 
 # Firmware Downgrade
 In case there is a need to downgrade the Firmware you pretty much follow the same steps as Firmware upgrade.
-Do it with the newest alpha manager or you can try the offline updater from here [Base Offline Updater](/assets/files/alpha/Base_Offline_Updater.zip)
+Do it with the newest alpha manager or you can try the offline updater from here [Base Offline Updater](/assets/files/Base_Offline_Updater.zip)
 
 
 You will also need some old version of the Firmware
