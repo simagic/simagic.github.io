@@ -10,7 +10,7 @@ parent: alpha base
 1. Install / start alpha manager
 1. Attach base to computer and boot it
 1. Check if base has been found
-1. Go to page **BootLoad** and upload the firmware you want (Firmware 2050 is delivered with alpha manager)
+1. Go to page **BootLoad** and upload the firmware you want
 1. After firmware is installed, power down the base
 1. Wait 10s
 1. Power up the base
